@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528743524081",
+    "project_id": "zheng-xin-tcm",
+    "storage_bucket": "zheng-xin-tcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528743524081:android:c04caa525c8335ffc9eb50",
+        "android_client_info": {
+          "package_name": "com.example.zheng_zin_tcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528743524081-rovgm97jeg8m1asjfgget36ks4nauet1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvmiIQzfMYBCZSkQRmgsz6YW8-qNPkIwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528743524081-rovgm97jeg8m1asjfgget36ks4nauet1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
